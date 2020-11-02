@@ -33,6 +33,12 @@ Set the `ALLEGRO_HOME` environment variable to this folder's absolute path, and 
 
 Once that's done, run the included `setenv.bat`, and if no errors were reported, then you can then build and install the library as usual.
 
+### Using the last release of Allegro 5
+
+You can download the last Allegro 5 binaries from [here](https://github.com/liballeg/allegro5/releases/) and pick the SEH version of the library (it was tested succesfully against it).
+Finally run `setenvlastest.bat` instead, and then proceed to build and install the library.
+
+
 Unstable APIs
 =============
 
